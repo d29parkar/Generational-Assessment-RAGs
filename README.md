@@ -19,4 +19,4 @@ Retrieval Augmented Generative (RAG) systems have emerged as pivotal tools in na
   - The Patronus AI Finance dataset is shared in a Google Drive folder. Access it using the following link: [Patronus AI Finance Dataset](https://drive.google.com/drive/folders/1-1RhBQzfagQlL9dO6qeCFJg3riodV8g1?usp=sharing).
 
 ## Course Information:
-This project was completed as part of the "Natural Language Processing" course taught by Dr. Hyeju Jang for the Purdue Computational Data Science degree. For further project details, please refer to the document "Final_report.pdf".
+This project was completed as part of the "Natural Language Processing" course taught by Dr. Hyeju Jang at Purdue. For further project details, please refer to the document "Final_report.pdf".
